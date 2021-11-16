@@ -1,0 +1,9 @@
+C:\Users\Rogerio\Documents\DOCUMENTOS LUCAS 2015\TALP\EnvioDeEmail\EnvioDeEmail\bin\Debug\EnvioDeEmail.exe
+C:\Users\Rogerio\Documents\DOCUMENTOS LUCAS 2015\TALP\EnvioDeEmail\EnvioDeEmail\bin\Debug\EnvioDeEmail.pdb
+C:\Users\Rogerio\Documents\DOCUMENTOS LUCAS 2015\TALP\EnvioDeEmail\EnvioDeEmail\obj\Debug\EnvioDeEmail.csprojResolveAssemblyReference.cache
+C:\Users\Rogerio\Documents\DOCUMENTOS LUCAS 2015\TALP\EnvioDeEmail\EnvioDeEmail\obj\Debug\EnvioDeEmail.Form1.resources
+C:\Users\Rogerio\Documents\DOCUMENTOS LUCAS 2015\TALP\EnvioDeEmail\EnvioDeEmail\obj\Debug\EnvioDeEmail.Properties.Resources.resources
+C:\Users\Rogerio\Documents\DOCUMENTOS LUCAS 2015\TALP\EnvioDeEmail\EnvioDeEmail\obj\Debug\EnvioDeEmail.csproj.GenerateResource.Cache
+C:\Users\Rogerio\Documents\DOCUMENTOS LUCAS 2015\TALP\EnvioDeEmail\EnvioDeEmail\obj\Debug\EnvioDeEmail.csproj.CoreCompileInputs.cache
+C:\Users\Rogerio\Documents\DOCUMENTOS LUCAS 2015\TALP\EnvioDeEmail\EnvioDeEmail\obj\Debug\EnvioDeEmail.exe
+C:\Users\Rogerio\Documents\DOCUMENTOS LUCAS 2015\TALP\EnvioDeEmail\EnvioDeEmail\obj\Debug\EnvioDeEmail.pdb
